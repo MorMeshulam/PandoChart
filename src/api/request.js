@@ -1,0 +1,1 @@
+export const GET_CHART_DATA = "get"

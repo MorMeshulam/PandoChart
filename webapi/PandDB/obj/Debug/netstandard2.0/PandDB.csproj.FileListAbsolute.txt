@@ -1,0 +1,9 @@
+C:\Code\PandoChart-master\webapi\PandDB\bin\Debug\netstandard2.0\PandDB.deps.json
+C:\Code\PandoChart-master\webapi\PandDB\bin\Debug\netstandard2.0\PandDB.dll
+C:\Code\PandoChart-master\webapi\PandDB\obj\Debug\netstandard2.0\PandDB.csprojAssemblyReference.cache
+C:\Code\PandoChart-master\webapi\PandDB\obj\Debug\netstandard2.0\PandDB.AssemblyInfoInputs.cache
+C:\Code\PandoChart-master\webapi\PandDB\obj\Debug\netstandard2.0\PandDB.AssemblyInfo.cs
+C:\Code\PandoChart-master\webapi\PandDB\bin\Debug\netstandard2.0\PandDB.pdb
+C:\Code\PandoChart-master\webapi\PandDB\obj\Debug\netstandard2.0\PandDB.csproj.CoreCompileInputs.cache
+C:\Code\PandoChart-master\webapi\PandDB\obj\Debug\netstandard2.0\PandDB.dll
+C:\Code\PandoChart-master\webapi\PandDB\obj\Debug\netstandard2.0\PandDB.pdb

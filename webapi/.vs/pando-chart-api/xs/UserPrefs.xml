@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{A1D3F481-DCB4-44B8-B8DD-88E37AF9F7E8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="pando-chart-api/database/PandoDB.cs">
+    <Files>
+      <File FileName="pando-chart-api/Controllers/WeatherForecastController.cs" Line="28" Column="14" />
+      <File FileName="pando-chart-api/WeatherForecast.cs" Line="10" Column="1" />
+      <File FileName="pando-chart-api/Properties/launchSettings.json" Line="31" Column="1" />
+      <File FileName="pando-chart-api/Startup.cs" Line="19" Column="1" />
+      <File FileName="pando-chart-api/database/PandoDB.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pando-chart-api" expanded="True">
+            <Node name="pando-chart-api" expanded="True">
+              <Node name="database" expanded="True">
+                <Node name="PandoDB.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>rng</Value>
+          <Value>Request</Value>
+          <Value>HttpContext.Request.Query</Value>
+          <Value>HttpContext.Request.Query</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.pando-chart-api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mormeshulam/Projects/pando-chart-api/pando-chart-api/Controllers/PandoChartController.cs" relfile="pando-chart-api/Controllers/PandoChartController.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
