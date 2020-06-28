@@ -38,6 +38,7 @@ $ npm start
 ```
 
 # Installation instructions video
+https://www.youtube.com/watch?v=0WV6EDb5QAU&feature=youtu.be
 
 [![Alt text](https://i9.ytimg.com/vi/0WV6EDb5QAU/maxresdefault.jpg?time=1593325927301&sqp=COjx4PcF&rs=AOn4CLCiPAAkzeOw6Bb_-JYfTC-72vT6eQ)](https://www.youtube.com/watch?v=0WV6EDb5QAU&feature=youtu.be)
 
