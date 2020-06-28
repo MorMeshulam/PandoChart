@@ -1,6 +1,6 @@
 # PandoChart
 
-This is an app with a chart view that shows jobs views and random prediction.
+This is an app with a chart view that shows job views and random predictions.
 the app using the current technologies:
 
 client side
