@@ -37,6 +37,11 @@ $ npm install
 $ npm start 
 ```
 
+# Installation instructions video
+
+[![Alt text](https://i9.ytimg.com/vi/0WV6EDb5QAU/maxresdefault.jpg?time=1593325927301&sqp=COjx4PcF&rs=AOn4CLCiPAAkzeOw6Bb_-JYfTC-72vT6eQ)](https://www.youtube.com/watch?v=0WV6EDb5QAU&feature=youtu.be)
+
+
 ### Tech
 
 Dillinger uses a number of open source projects to work properly:
