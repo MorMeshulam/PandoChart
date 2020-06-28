@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=0WV6EDb5QAU&feature=youtu.be
 
 ### Tech
 
-* [React JS] - HTML enhanced for web apps!
+* [React JS] - Javascript enhanced libary for web apps!
 * [Redux] - awesome web-based state management
 * [Redux Thunk] - Fast and easy to consume async actions via redux.
 * [Styled Components] - State of the art UI framework.
