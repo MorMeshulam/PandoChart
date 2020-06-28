@@ -56,8 +56,8 @@ https://www.youtube.com/watch?v=FqUsYS5d1FI&feature=youtu.be
 
 | Plugin | README |
 | ------ | ------ |
-| Google Charts | [https://github.com/rakannimer/react-google-charts/blob/master/README.md][PlGd] |
-| Styled Components | [https://github.com/styled-components/styled-components][PlOd] |
+| Google Charts | [https://github.com/rakannimer/react-google-charts/blob/master/README.md] |
+| Styled Components | [https://github.com/styled-components/styled-components] |
 
 ### Todos
  - Write  Tests
