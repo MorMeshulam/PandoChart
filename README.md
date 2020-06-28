@@ -45,8 +45,6 @@ https://www.youtube.com/watch?v=0WV6EDb5QAU&feature=youtu.be
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
-
 * [React JS] - HTML enhanced for web apps!
 * [Redux] - awesome web-based state management
 * [Redux Thunk] - Fast and easy to consume async actions via redux.
